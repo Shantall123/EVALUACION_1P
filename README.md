@@ -40,10 +40,16 @@
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta a la Pregunta 1 -->
-
----
-
+<!-- Escribe aquí tu respuesta a la Pregunta 1 --> Conceptos: git clone: comando para descargar una copia de un repositorio remoto a la máquina local. Crea un vínculo llamado origin que apunta al 
+repositorio de donde se clonó. fork: No es un comando de Git, sino una función de GitHub. Crea una copia de un repositorio ajeno en tu propia cuenta de GitHub. Permite realizar cambios sin 
+afectar el proyecto original. git pull: comando que se usa para traer los cambios más recientes desde el repositorio remoto y fusionarlos directamente en tu rama actual. 
+Preguntas:
+¿Cómo se realizó el fork?
+El fork se realizó mediante la plataforma gitHub.
+¿Cómo se realizó el clone del fork?
+LA clonación del fork se realizó mediante el comando "git clone" junto a la url del repositorio remoto. 
+¿Cómo se verificó que se estaba trabajando sobre el fork y no sobre el repositorio original?
+Se realizó la verificacion mediante el comando git remote -v 
 ## Pregunta 2 (1 punto)
 
 **Configurar un archivo `.gitignore` para que ignore:**
