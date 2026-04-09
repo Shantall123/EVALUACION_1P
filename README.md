@@ -67,8 +67,24 @@ Se realizó la verificacion mediante el comando git remote -v
 **Importante:**  
 - Solo el **tercer commit** debe llevar el **tag `"Pregunta 2"`**.
 
-**📝 Respuesta:**
+Rspuesta:**
+El archivo .gitignore sirve para que Git no pueda hacerle un seguimiento a los tipos de archivos especificados denttro de este. 
+Evidencia: 
+$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 2 commits.
+  (use "git push" to publish your local commits)
 
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        images/addycommitprimerapregunta.png
+        images/pregunta2Creaciongitignore.png
+        images/primercommit2dapregunta.png
+        prueba.md
+        prueba.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+Pst: la evidencia tambien se encuentran en las capturas en la carpeta image. 
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
 
 ---
