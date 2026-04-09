@@ -113,8 +113,13 @@ Pst: la evidencia tambien se encuentran en las capturas en la carpeta image.
 - **Solo el commit final** debe llevar el **tag `"Pregunta 3"`**.
 - El flujo debe respetar la estructura de Git Flow con las ramas `develop` y `main`.
 
-**📝 Respuesta:**
-
+**📝 Respuesta:** se
+ utilizaron los comandos 
+1. git flow init: inicializar el trabajo con gitflow 
+2. git flow feature start ingresar-encabezado: crear la rama feature para añadir el encabezado 
+3. nano README. md: editar el enacbezado en el archivo.
+4. git flow feature finish ingresar-encabezado: termina con la rama feature y tare los cambios a la rama superior. 
+como ventaja de gitflow tenemos la creacion automatica de ramas al apenas inciar. 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
 
 ---
