@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
-### Carrera de [Nombre de la Carrera]  
+# Universidad Técnica de Ambato
+## Facultad de Ingenieria en sistemas, electronica e indistrial  
+### Carrera de Software
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Shantall Aguirre  
+**Fecha:** 08/04/2026  
 
 ---
 
