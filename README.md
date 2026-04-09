@@ -149,6 +149,8 @@ como ventaja de gitflow tenemos la creacion automatica de ramas al apenas inciar
 - El número y enlace al pull request.
 
 **📝 Respuesta:**
+¿Qué es un Pull Request y cuál es su función dentro de un flujo de trabajo colaborativo con Git y GitHub?
+Es una petición formal para integrar cambios de una rama (como develop) a otra (como main). Su función es permitir que otros colaboradores revisen, discutan y prueben el código antes de que se vuelva parte del proyecto oficial.
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
