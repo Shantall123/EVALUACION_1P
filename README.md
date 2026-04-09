@@ -153,6 +153,10 @@ como ventaja de gitflow tenemos la creacion automatica de ramas al apenas inciar
 Es una petición formal para integrar cambios de una rama (como develop) a otra (como main). Su función es permitir que otros colaboradores revisen, discutan y prueben el código antes de que se vuelva parte del proyecto oficial.
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+¿Por qué es importante revisar un Pull Request antes de fusionarlo con la rama principal?
+Para asegurar la calidad del software, detectar errores (bugs) antes de que lleguen a producción, mantener la consistencia del estilo de código y compartir conocimiento entre el equipo.
+¿Qué tipo de observaciones o validaciones se suelen realizar durante la revisión de un Pull Request?
+e revisa que el código funcione, que no rompa funcionalidades existentes, que sea legible, que cumpla con los estándares de seguridad y que esté bien documentado.
 
 ---
 
